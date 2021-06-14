@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ksNwW9KTdegSsH4tOpHg3qyksbTTbYvHVAaMqUt/AGYR6nV7VtSKYuEaoZA4UoVW5Ec/L7jDGi484lWKU/006Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcin\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
